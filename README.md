@@ -5,6 +5,13 @@
 ## Information
 We use a "flags system" as part of our development process. When we release an update, not all of the code in it is necessarily active. Some of it is disabled by flags we remotely control without requiring you to manually run an update. This allows us to release and debug faster, and also allows us to revert changes if they turn out to be problematic.
 
+### Versions
+Zachariah is released in two different versions:
+
+* **Release:** The release version of Zachariah is used on the main Discord server. These code changes are often tested and are guaranteed to work.
+
+* **Staging:** The staging version of Zachariah is a beta version. We use this version for testing large scale changes before deploying them to the release version. This makes sure that we're less likely to cause any major disruption to the main Discord server.
+
 ## Types of Fast Flags
 
 **Fast Flags (FFlag):** <br/> Regular Fast Flags are retrieved on startup and do not change unless Zachariah is shutdown and restarted.
