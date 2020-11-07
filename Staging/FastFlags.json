@@ -240,7 +240,7 @@
 			}
 		},
 		"UserReptuation":{
-			"TrustExponent":1.5,
+			"TrustExponent":1.75,
 			"DefaultTrust":1,
 			"WeightAutoMod":0.05,
 			"WeightFilter2":0.05,
