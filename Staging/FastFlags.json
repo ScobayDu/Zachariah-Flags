@@ -1,0 +1,258 @@
+{
+	"FFlags":{
+		"Zachariah":{
+			"GuildId":"773545747785973800",
+			"Settings":{
+				"DeleteMessageInvokingCommand":true,
+				"Prefix":"/",
+				"FastFlags":{
+					"LogUpdates":false,
+					"UpdateInterval":30000
+				}
+			},
+			"UserId":"773548137943269396",
+			"ClientOptions":{
+				"presence":{
+					"activity":{
+						"name":"Keeping Starboard safe from outlaws!"
+					},
+					"status":"dnd"
+				},
+				"disabledMentions":"everyone"
+			}
+		},
+		"Keychain":{
+			"Production":{
+				"Base64Chunk":"U2FsdGVkX19ndfqvdqeNG6l33qhXt9ftSDtByzzeAZYfl4zRPFvcBJ2SWCYRI1XCiCb1Dch0K7BR1dE0TmQwMJKoXeUSaBhJcuVywtyYx/ei7jefdlhbP4+FPm06YjBaCOrVqUDyWrdOaLHCstWo/zJwUdRZ6tAf1fUmNP14u+lbal56sKYN8COAiWWGdP8OiSApwyPQGvG6Jl+X/DuHHCCLRITLKzW9ZWb2hnZL50NwbbkvaNFn+BrV0hL8RqcKaclC8G7Ht6Tup3iNQ+H9l/YVfxJGQRThuAnuhrwsGti4F87hrEvLNMgQy11P1mh322Hbk4BC14VEN0w3l4oFlLc7VDNcDdI0WyHbGAhd9w0=",
+				"ChunkNonce":"U2FsdGVkX1872AU05uNIek43PsWCdcfr22rIUm8cK26ejq/7zQHibheErrqEbhQ95zIvUZuhcKQnQ4Y/lbNY7KlmvTldnjexV5IV24NcopYJLrI6JBYgu+9oMwLsgeKQ"
+			},
+			"Staging":{
+				"Base64Chunk":"U2FsdGVkX1+883CKEaUKPmhCloXmyoIB8qVSpnEZMHC1X4xicku7HC67ysLdkiselNdkt6DQJg5eLp4Jlv/rQ7VfG8QINPuXvmsAB+sPmQU9WE6eXiM3AggmwFa8Oz25/1hLuwEy4/RVx4DiY2u1PouiCCmhUcBb3rivHJl+wnRtKp510es2JNK/ri7tOK+nUAD9tHVleegjzcNQb7yxz4ERF/dinI65rztpULIdfQ1p2Au8mFgLXykTvaGJn9Mo2mzgmnP8mwZnQn4w9omrOFtubUMcLBc5iWEtbjrz/bZUziAvxfL5cW/24gI5YkORfOuQIBm5CM6YOlIKhoGxN4B8Vuhc6/deWzJleWT7lG4=",
+				"ChunkNonce":"U2FsdGVkX1//5+JkTiXrKzQNjdWxzvrOcujfgmzeOTlLqH4JICF6Bl9CQNx+sY414KyXlF3WJ3G8gi6LJSMaOiMuV9vBXgtyMn9Rvxl29s/ChUyWYMW4UOpaEpe7MyO6"
+			}
+		},
+		"Roles":{
+			"Staff":{
+				"Developer":"773545747815596085",
+				"Trainee":"773545747807338500",
+				"SeniorModerator":"773545747807338502",
+				"Moderator":"773545747807338501",
+				"CommunityManager":"773545747815596083",
+				"EventTeam":"773545747807338499",
+				"WikiTeam":"773545747794100321",
+				"Contractor":"773545747807338504",
+				"BusinessManager":"773545747815596084"
+			},
+			"Community":{
+				"Level15Plus":"773545747794100314",
+				"Level75Plus":"773545747794100319",
+				"Newbies":"773545747785973803",
+				"Honorable":"773545747794100317",
+				"Artist":"773545747807338497",
+				"Beginner":"773545747785973808",
+				"PreAlphaTester":"773545747794100322",
+				"Level30Plus":"773545747794100315",
+				"BronzeCityInvestor":"585549348436181010",
+				"Level5Plus":"773545747785973809",
+				"Level50Plus":"773545747794100318",
+				"EventChampion":"773545747794100316",
+				"WesternLegend":"773545747794100320",
+				"YouTuber":"773545747807338496"
+			}
+		},
+		"ThirdPartyServices":{
+			"DeepL":true,
+			"PerspectiveAPI":true,
+			"ImageModeration":true
+		},
+		"Channels":{
+			"Public":{
+				"GeneralLounge":"773545748271726632",
+				"Images":"773545748725497908",
+				"CoolKidLounge":"773545748725497911",
+				"Voice":{
+					"MemberCount":"773545747815596088"
+				},
+				"Memes":"773545748725497907",
+				"TheWildWestChat":"773545748271726633",
+				"Tools":{
+					"ReportBugs":"773545749094334505",
+					"ReportExploiters":"773545749094334506",
+					"PublicBotCommands":"773545748725497909",
+					"FeedbackSuggestions":"773545749094334504",
+					"TopCommunityRequests":"773545748725497915",
+					"Recruitment":"773545749094334507"
+				},
+				"ShareCreations":"773545748725497910",
+				"InternationalChat":"773545748725497906"
+			},
+			"Private":{
+				"Tools":{
+					"FlaggedMessages":"773545750222077967",
+					"FlaggedImages":"773973953005879357",
+					"Commands":"773545750222077965",
+					"InGameModeration":"773545750222077966"
+				},
+				"StaffLounge":"773545749891776537",
+				"Logging":{
+					"GameModerationLogs":"773545750663397392",
+					"ModerationLogs":"773545750663397391",
+					"AutoModerationLogs":"773545750663397389",
+					"ServerLogs":"773545750663397390"
+				}
+			}
+		}
+	},
+	"DSFFlags":{
+
+	},
+	"DFFlags":{
+		"Manifest":{
+			"Version":"1.2.0-alpha1",
+			"Author":"Skylar Chen <skylar@starboard.games>, Anna W. <starboard@anna.gg>"
+		},
+		"Zachariah":{
+			"StatusMessages":[
+				"Keeping Starboard safe from outlaws!",
+				"Catching criminals since 1st of August, 2020",
+				"Deciding jail time for outlaws.",
+				"Stargazing",
+				"Enjoying your memes",
+				"Investigating crimes",
+				"Issuing verdicts",
+				"Giving real-time updates of my life",
+				"Looking for secrets 👀",
+				"I'm afraid I can't let you do that",
+				"Now I'm onto all your little tricks",
+				"Roblox",
+				"Minecraft",
+				"Among Us"
+			],
+			"Presence":"dnd",
+			"PresenceUpdateInterval":300000
+		},
+		"DeveloperFlags":{
+			"FlaggedMessage":{
+				"Enabled":true,
+				"DeleteOffendingMessage":true,
+				"IncludeTechnicalDetails":true
+			}
+		},
+		"Restrictions":{
+			"ReportExploiters":{
+				"BlacklistedUsers":[
+					"750378928249766028"
+				]
+			},
+			"Global":{
+
+			},
+			"Recruitment":{
+				"BlacklistedUsers":[
+					"671267063766974495",
+					"320907193773981697",
+					"506044875301453844",
+					"623747320344739872",
+					"625404338927435779",
+					"758270286339506187",
+					"439490241204846595",
+					"679434072308711425",
+					"750378928249766028",
+					"712554394272399371",
+					"349349069371473923",
+					"723557240682053702"
+				],
+				"BlacklistedServers":[
+					"699591382792274002",
+					"693163026999934977",
+					"724658868306706502"
+				]
+			}
+		},
+		"AutomaticMessages":{
+			"ReportExploiters":{
+				"Interval":36000000,
+				"MessageData":[
+					"
+					1. Provide their Roblox username and make sure their Roblox username is clear within the video.
+
+ 
+					2. Provide a description of what they were doing i.e. fly hacking, speed hacking, etc.
+
+ 
+					3. Provide **video** evidence of the exploiter - we don't accept screenshots!",
+					"We **only** accept **video** evidence! We do **not** accept screenshots."
+				],
+				"Channel":"773545749094334506"
+			},
+			"RecruitmentRules":{
+				"Interval":36000000,
+				"MessageData":[
+					"
+					1. Any ‘faction drama’ is strictly not allowed and will get you permanently blacklisted.
+
+ 
+					2. Only one member of your faction is allowed to advertise every 6 hours.
+
+ 
+					3. Do not send advertisements in a row or close enough to each other that you can notice it.
+
+ 
+					4. Make sure you have read our server <#712557257723740240>, they also apply and these recruitment guidelines.
+
+ 
+					5. Must include a valid Discord invite. Invalid/Expired invites are deleted.
+
+ 
+					6. Joke factions are perfectly fine as long as it's not being rude or offensive.
+
+ 
+					7. Impersonating factions is strictly not allowed.",
+					"Disobeying the recruitment rules or our server rules will get you permanently blacklisted from <#773545749094334507>"
+				],
+				"Channel":"773545749094334507"
+			}
+		},
+		"PerspectiveAPI":{
+			"MonitoredChannels":[
+				"773545748271726632",
+				"773545748271726633",
+				"773545748725497907",
+				"773545748725497908",
+				"773545748725497910",
+				"773545748725497911"
+			],
+			"ContextMessageHistory":5,
+			"Thresholds":{
+				"Default":{
+					"SexuallyExplicit":0.9725,
+					"IdentityAttack":0.9755,
+					"Insult":0.9725,
+					"Toxicity":0.9755
+				},
+				"Strict":{
+					"SexuallyExplicit":0.9855,
+					"IdentityAttack":0.9825,
+					"Insult":0.9825,
+					"Toxicity":0.9855
+				}
+			}
+		},
+		"UserReptuation":{
+			"TrustExponent":1.5,
+			"DefaultTrust":1,
+			"WeightAutoMod":0.05,
+			"WeightFilter2":0.05,
+			"WeightDefault":1,
+			"MaximumTrustMultiplier":1,
+			"WeightFilter0":0.005,
+			"MinimumTrustMultiplier":0.8,
+			"WeightFilter1":0.01,
+			"WeightMessage":0.005,
+			"WeightFlagged":0.01
+		}
+	},
+	"SFFlags":{
+
+	}
+}
