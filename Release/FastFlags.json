@@ -131,12 +131,13 @@
 			"PresenceUpdateInterval":300000
 		},
 		"DeveloperFlags":{
-			"AutoRemoveWestboundMentionByStaff":true,
+			"WestboundLevenshteinThreshold":3,
 			"FlaggedMessage":{
 				"Enabled":true,
 				"DeleteOffendingMessage":true,
 				"IncludeTechnicalDetails":true
-			}
+			},
+			"AutoRemoveWestboundMentionByStaff":true
 		},
 		"Restrictions":{
 			"ReportExploiters":{
