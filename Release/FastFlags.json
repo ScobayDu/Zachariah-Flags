@@ -131,6 +131,7 @@
 			"PresenceUpdateInterval":300000
 		},
 		"DeveloperFlags":{
+			"AutoRemoveWestboundMentionByStaff":true,
 			"FlaggedMessage":{
 				"Enabled":true,
 				"DeleteOffendingMessage":true,
