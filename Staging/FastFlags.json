@@ -88,9 +88,10 @@
 			},
 			"Private":{
 				"Tools":{
+					"Commands":"773545750222077965",
+					"PlayerReports":"809944920747147286",
 					"FlaggedMessages":"773545750222077967",
 					"FlaggedImages":"773973953005879357",
-					"Commands":"773545750222077965",
 					"InGameModeration":"773545750222077966"
 				},
 				"StaffLounge":"773545749891776537",
