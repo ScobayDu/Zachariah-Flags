@@ -239,9 +239,9 @@
 			"Thresholds":{
 				"Default":{
 					"SexuallyExplicit":0.9725,
-					"IdentityAttack":0.9755,
-					"Insult":0.9725,
-					"Toxicity":0.9755
+					"IdentityAttack":0.9795,
+					"Insult":0.9755,
+					"Toxicity":0.9795
 				},
 				"Strict":{
 					"SexuallyExplicit":0.9855,
