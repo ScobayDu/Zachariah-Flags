@@ -132,7 +132,7 @@
 			"PresenceUpdateInterval":300000
 		},
 		"DeveloperFlags":{
-			"WestboundLevenshteinThreshold":3,
+			"WestboundLevenshteinThreshold":2,
 			"FlaggedMessage":{
 				"Enabled":true,
 				"DeleteOffendingMessage":true,
