@@ -110,7 +110,7 @@
 	"DFFlags":{
 		"Manifest":{
 			"Version":"1.2.0-alpha1",
-			"Author":"Skylar Chen <skylar@starboard.games>, Anna W. <starboard@anna.gg>"
+			"Author":"Skylar Chen <skylar@starboard.games>, Dominik W. <starboard@anna.gg>"
 		},
 		"Zachariah":{
 			"StatusMessages":[
@@ -138,7 +138,7 @@
 				"DeleteOffendingMessage":true,
 				"IncludeTechnicalDetails":true
 			},
-			"AutoRemoveWestboundMentionByStaff":true
+			"AutoRemoveWestboundMention":true
 		},
 		"Restrictions":{
 			"ReportExploiters":{
