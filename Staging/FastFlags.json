@@ -3,10 +3,7 @@
 		"Zachariah":{
 			"GuildId":"773545747785973800",
 			"Settings":{
-				"DeleteMessageInvokingCommand":true,
-				"Prefix":"/",
 				"FastFlags":{
-					"LogUpdates":false,
 					"UpdateInterval":30000
 				}
 			},
@@ -57,7 +54,7 @@
 				"Honorable":"773545747794100317",
 				"Artist":"773545747807338497",
 				"Beginner":"773545747785973808",
-				"BronzeCityInvestor":"585549348436181010",
+				"BronzeCityInvestor":"0000000000000000",
 				"Level30Plus":"773545747794100315",
 				"Muted":"773545747807338498",
 				"Level5Plus":"773545747785973809",
@@ -68,9 +65,8 @@
 			}
 		},
 		"ThirdPartyServices":{
-			"DeepL":true,
 			"PerspectiveAPI":true,
-			"ImageModeration":true
+			"DeepL":true
 		},
 		"Channels":{
 			"Public":{
@@ -153,9 +149,6 @@
 					"750378928249766028"
 				]
 			},
-			"Global":{
-
-			},
 			"Recruitment":{
 				"BlacklistedUsers":[
 					"671267063766974495",
@@ -186,50 +179,6 @@
 					"693163026999934977",
 					"724658868306706502"
 				]
-			}
-		},
-		"AutomaticMessages":{
-			"ReportExploiters":{
-				"Interval":36000000,
-				"MessageData":[
-					"
-					1. Provide their Roblox username and make sure their Roblox username is clear within the video.
-
- 
-					2. Provide a description of what they were doing i.e. fly hacking, speed hacking, etc.
-
- 
-					3. Provide **video** evidence of the exploiter - we don't accept screenshots!",
-					"We **only** accept **video** evidence! We do **not** accept screenshots."
-				],
-				"Channel":"773545749094334506"
-			},
-			"RecruitmentRules":{
-				"Interval":36000000,
-				"MessageData":[
-					"
-					1. Any ‘faction drama’ is strictly not allowed and will get you permanently blacklisted.
-
- 
-					2. Only one member of your faction is allowed to advertise every 6 hours.
-
- 
-					3. Do not send advertisements in a row or close enough to each other that you can notice it.
-
- 
-					4. Make sure you have read our server <#712557257723740240>, they also apply and these recruitment guidelines.
-
- 
-					5. Must include a valid Discord invite. Invalid/Expired invites are deleted.
-
- 
-					6. Joke factions are perfectly fine as long as it's not being rude or offensive.
-
- 
-					7. Impersonating factions is strictly not allowed.",
-					"Disobeying the recruitment rules or our server rules will get you permanently blacklisted from <#773545749094334507>"
-				],
-				"Channel":"773545749094334507"
 			}
 		},
 		"PerspectiveAPI":{
