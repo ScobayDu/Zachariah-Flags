@@ -12,13 +12,19 @@
 			},
 			"UserId":"773548137943269396",
 			"ClientOptions":{
+				"disabledMentions":"everyone",
+				"ws":{
+					"intents":[
+						32509,
+						"GUILD_MEMBERS"
+					]
+				},
 				"presence":{
 					"activity":{
 						"name":"Keeping Starboard safe from outlaws!"
 					},
 					"status":"dnd"
-				},
-				"disabledMentions":"everyone"
+				}
 			}
 		},
 		"Keychain":{
