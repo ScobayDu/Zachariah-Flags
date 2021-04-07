@@ -1,39 +1,5 @@
 {
 	"FFlags":{
-		"Zachariah":{
-			"GuildId":"773545747785973800",
-			"Settings":{
-				"FastFlags":{
-					"UpdateInterval":30000
-				}
-			},
-			"UserId":"773548137943269396",
-			"ClientOptions":{
-				"disabledMentions":"everyone",
-				"ws":{
-					"intents":[
-						32509,
-						"GUILD_MEMBERS"
-					]
-				},
-				"presence":{
-					"activity":{
-						"name":"Keeping Starboard safe from outlaws!"
-					},
-					"status":"dnd"
-				}
-			}
-		},
-		"Keychain":{
-			"Production":{
-				"Base64Chunk":"U2FsdGVkX19ndfqvdqeNG6l33qhXt9ftSDtByzzeAZYfl4zRPFvcBJ2SWCYRI1XCiCb1Dch0K7BR1dE0TmQwMJKoXeUSaBhJcuVywtyYx/ei7jefdlhbP4+FPm06YjBaCOrVqUDyWrdOaLHCstWo/zJwUdRZ6tAf1fUmNP14u+lbal56sKYN8COAiWWGdP8OiSApwyPQGvG6Jl+X/DuHHCCLRITLKzW9ZWb2hnZL50NwbbkvaNFn+BrV0hL8RqcKaclC8G7Ht6Tup3iNQ+H9l/YVfxJGQRThuAnuhrwsGti4F87hrEvLNMgQy11P1mh322Hbk4BC14VEN0w3l4oFlLc7VDNcDdI0WyHbGAhd9w0=",
-				"ChunkNonce":"U2FsdGVkX1872AU05uNIek43PsWCdcfr22rIUm8cK26ejq/7zQHibheErrqEbhQ95zIvUZuhcKQnQ4Y/lbNY7KlmvTldnjexV5IV24NcopYJLrI6JBYgu+9oMwLsgeKQ"
-			},
-			"Staging":{
-				"Base64Chunk":"U2FsdGVkX1+883CKEaUKPmhCloXmyoIB8qVSpnEZMHC1X4xicku7HC67ysLdkiselNdkt6DQJg5eLp4Jlv/rQ7VfG8QINPuXvmsAB+sPmQU9WE6eXiM3AggmwFa8Oz25/1hLuwEy4/RVx4DiY2u1PouiCCmhUcBb3rivHJl+wnRtKp510es2JNK/ri7tOK+nUAD9tHVleegjzcNQb7yxz4ERF/dinI65rztpULIdfQ1p2Au8mFgLXykTvaGJn9Mo2mzgmnP8mwZnQn4w9omrOFtubUMcLBc5iWEtbjrz/bZUziAvxfL5cW/24gI5YkORfOuQIBm5CM6YOlIKhoGxN4B8Vuhc6/deWzJleWT7lG4=",
-				"ChunkNonce":"U2FsdGVkX1//5+JkTiXrKzQNjdWxzvrOcujfgmzeOTlLqH4JICF6Bl9CQNx+sY414KyXlF3WJ3G8gi6LJSMaOiMuV9vBXgtyMn9Rvxl29s/ChUyWYMW4UOpaEpe7MyO6"
-			}
-		},
 		"Roles":{
 			"Staff":{
 				"Developer":"773545747815596085",
@@ -68,6 +34,9 @@
 			"PerspectiveAPI":true,
 			"DeepL":true
 		},
+		"Zachariah":{
+			"GuildId":"773545747785973800"
+		},
 		"Channels":{
 			"Public":{
 				"GeneralLounge":"773545748271726632",
@@ -93,8 +62,6 @@
 				"Tools":{
 					"Commands":"773545750222077965",
 					"PlayerReports":"809944920747147286",
-					"FlaggedMessages":"773545750222077967",
-					"FlaggedImages":"773973953005879357",
 					"InGameModeration":"773545750222077966"
 				},
 				"StaffLounge":"773545749891776537",
@@ -111,10 +78,6 @@
 
 	},
 	"DFFlags":{
-		"Manifest":{
-			"Version":"1.2.0-alpha1",
-			"Author":"Skylar Chen <skylar@starboard.games>, Dominik W. <starboard@anna.gg>"
-		},
 		"Zachariah":{
 			"StatusMessages":[
 				"Keeping Starboard safe from outlaws!",
